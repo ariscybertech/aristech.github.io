@@ -1,2 +1,3 @@
-2021/12/23-21:02:58.497 161d Creating DB /tmp/flutter_tools.SWKUCS/flutter_tools_chrome_device.UAWRBN/Default/Extension Scripts since it was missing.
-2021/12/23-21:02:58.505 161d Reusing MANIFEST /tmp/flutter_tools.SWKUCS/flutter_tools_chrome_device.UAWRBN/Default/Extension Scripts/MANIFEST-000001
+2021/12/24-10:26:10.709 35c8 Reusing MANIFEST /tmp/flutter_tools.MJBXQP/flutter_tools_chrome_device.FLCDTE/Default/Extension Scripts/MANIFEST-000001
+2021/12/24-10:26:10.709 35c8 Recovering log #3
+2021/12/24-10:26:10.710 35c8 Reusing old log /tmp/flutter_tools.MJBXQP/flutter_tools_chrome_device.FLCDTE/Default/Extension Scripts/000003.log 

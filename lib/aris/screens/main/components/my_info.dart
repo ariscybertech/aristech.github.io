@@ -20,7 +20,7 @@ class MyInfo extends StatelessWidget {
             ),
             Spacer(),
             Text(
-              "Abu Anwar",
+              "Aris",
               style: Theme.of(context).textTheme.subtitle2,
             ),
             Text(
